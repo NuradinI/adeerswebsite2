@@ -22,8 +22,14 @@ p {
     padding-right: 4vw;
     padding-top: 4vh;
     padding-bottom: 4vh;
+    font-size: 1.4em;
 }
 #three {
+    max-width:100%;
+    height: auto;
+    margin-top: 4vh; 
+}
+#four {
     max-width:100%;
     height: auto;
     margin-top: 4vh; 
